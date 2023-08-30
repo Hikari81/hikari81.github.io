@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>TESTDEMO</title>
+      <link href="/2023/08/29/TEST/"/>
+      <url>/2023/08/29/TEST/</url>
+      
+        <content type="html"><![CDATA[<p>文章测试</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> MarkDown </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Typora </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/08/24/hello-world/"/>
       <url>/2023/08/24/hello-world/</url>
